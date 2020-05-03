@@ -1,0 +1,107 @@
+.ContactsBook {
+  height: 100%;
+  width: 100%;
+}
+.search {
+  width: 100%;
+  margin-right: 15px;
+  display: flex;
+  justify-content: center;
+}
+.serchInput {
+  border: 0px;
+  border-radius: 25px;
+  height: 30px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 92%;
+  outline: none;
+  background-color: #F3F3F3;
+  font-size: 20px;
+  padding-left: 15px;
+}
+.contact_list {
+  padding-left: 15px;
+  font-size: 18px;
+}
+.contactsHead {
+  font-family: "Text-Bold";
+  font-size: 20px;
+  display: flex;
+  margin: 0;
+  justify-content: center;
+  position: relative;
+
+}
+.contactName {
+  margin: 0;
+  padding-bottom: 4px;
+  justify-content: center;
+}
+.contactPhone {
+  font-size: 14px;
+  margin: 0;
+  padding-bottom: 2px;
+  justify-content: center;
+}
+.contactList {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.contactGender {
+  font-size: 12px;
+  margin: 0;
+  display: flex;
+  position: relative;
+}
+
+.contactName {
+  display: flex;
+  font-family: "Text-Bold";
+  font-size: 16px;
+  display: flex;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+  max-width: 300px;
+  height: 100%;
+}
+
+.contactPhone,
+.contactGender {
+  color: rgba(129, 127, 127);
+  font-size: 16px;
+  display: flex;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+  max-width: 300px;
+  height: 100%;
+  
+}
+
+
+
+
+
+.gender_items {
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+}
+.label {
+  font-family: "Text-Bold";
+  font-size: 14px;
+ 
+  
+}
+.apple-switch {
+    margin-right: 50px;
+}
+.contactGender img {
+  top: 30px;
+  width: 70px;
+  height: 30px;
+  left: 50px;
+}
