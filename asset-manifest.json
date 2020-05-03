@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app2/static/css/main.ed397576.chunk.css",
+    "main.js": "/my-app2/static/js/main.1291d8c0.chunk.js",
+    "main.js.map": "/my-app2/static/js/main.1291d8c0.chunk.js.map",
+    "runtime-main.js": "/my-app2/static/js/runtime-main.95d85c14.js",
+    "runtime-main.js.map": "/my-app2/static/js/runtime-main.95d85c14.js.map",
+    "static/js/2.ad1d4999.chunk.js": "/my-app2/static/js/2.ad1d4999.chunk.js",
+    "static/js/2.ad1d4999.chunk.js.map": "/my-app2/static/js/2.ad1d4999.chunk.js.map",
+    "index.html": "/my-app2/index.html",
+    "precache-manifest.57fff8ff5876c11e4fe76b0277a70b88.js": "/my-app2/precache-manifest.57fff8ff5876c11e4fe76b0277a70b88.js",
+    "service-worker.js": "/my-app2/service-worker.js",
+    "static/css/main.ed397576.chunk.css.map": "/my-app2/static/css/main.ed397576.chunk.css.map",
+    "static/js/2.ad1d4999.chunk.js.LICENSE.txt": "/my-app2/static/js/2.ad1d4999.chunk.js.LICENSE.txt",
+    "static/media/iconfinder_1_759442.svg": "/my-app2/static/media/iconfinder_1_759442.f3757028.svg",
+    "static/media/iconfinder_glyph-18_3403715.svg": "/my-app2/static/media/iconfinder_glyph-18_3403715.2869e162.svg",
+    "static/media/iconfinder_m-17_4230547.svg": "/my-app2/static/media/iconfinder_m-17_4230547.8a7c6e6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d85c14.js",
+    "static/js/2.ad1d4999.chunk.js",
+    "static/css/main.ed397576.chunk.css",
+    "static/js/main.1291d8c0.chunk.js"
+  ]
+}
